@@ -1,0 +1,5 @@
+dataset:
+    root: '/data/huacong/DATA'
+    name: 'sun397'
+    shots: 16
+    ctx_init: "a photo of a {}."

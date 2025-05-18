@@ -1,0 +1,5 @@
+dataset:
+    root: '/data/huacong/DATA'
+    name: 'dtd'
+    shots: 16
+    ctx_init: "{} texture."
